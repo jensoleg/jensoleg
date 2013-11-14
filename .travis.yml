@@ -7,5 +7,5 @@ before_script:
   - 'grunt build'
 deploy:
   provider: heroku
-  app: nameless-plateau-6583
+  app: jensoleg
   api_key: "35efbe8ca8597471b7aa0b2c23fc9458b730f855"
