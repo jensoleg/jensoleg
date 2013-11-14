@@ -366,7 +366,7 @@ module.exports = function (grunt) {
         'autoprefixer',
     ]);
 
-    grunt.registerTask('heroku', [
+    grunt.registerTask('build', [
         'clean:dist',
         'useminPrepare',
         'concurrent:dist',
@@ -379,6 +379,10 @@ module.exports = function (grunt) {
         'uglify',
         'rev',
         'usemin'
+    ]);
+
+    grunt.registerTask('heroku', [
+        'build'
     ]);
 
 
