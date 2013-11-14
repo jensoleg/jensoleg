@@ -381,7 +381,7 @@ module.exports = function (grunt) {
         'usemin'
     ]);
 
-    grunt.registerTask('heroku', [
+    grunt.registerTask('heroku:development', [
         'build'
     ]);
 
