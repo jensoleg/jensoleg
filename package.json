@@ -8,7 +8,9 @@
   "dependencies": {
     "express": "~3.4.3",
     "grunt-cli": "~0.1.11",
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.1",
+      "grunt-contrib": "*",
+      "less": "*"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
