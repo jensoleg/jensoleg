@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/jensoleg/herokuapp.png?branch=master)](https://travis-ci.org/jensoleg/herokuapp)
+[![Build Status](https://travis-ci.org/jensoleg/herokuapp.png?branch=master)](https://travis-ci.org/jensoleg/herokuapp) [![devDependency Status](https://david-dm.org/richwidgets/richwidgets/dev-status.png)](https://david-dm.org/richwidgets/richwidgets#info=devDependencies)
