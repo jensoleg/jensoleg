@@ -6,6 +6,7 @@ before_script:
   - 'bower install'
 script:
   - 'grunt build'
+  - 'grunt heroku'
 deploy:
   provider: heroku
   app: jensoleg
